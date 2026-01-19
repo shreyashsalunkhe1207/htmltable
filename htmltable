@@ -2,8 +2,6 @@
   <head>
     <style>
 
-
-      table ,th ,td
       {border :1px solid red j padding :5px ; text-align : lift ;}
     </style>
   </head>
